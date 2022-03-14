@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharpkamp", "caharpkamp\cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{A6067B5B-32B3-4472-BAEE-E57E187F3F30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maths", "Maths\Maths.csproj", "{A82C9966-7FB2-4292-8941-8A8C9A8D6B58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maths", "Maths\Maths.csproj", "{A82C9966-7FB2-4292-8941-8A8C9A8D6B58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{382AB56E-20FF-4491-9241-5FBF529B4459}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{382AB56E-20FF-4491-9241-5FBF529B4459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{0DCE943A-A689-48E1-A779-993D8E02A57B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{382AB56E-20FF-4491-9241-5FBF529B4459}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{382AB56E-20FF-4491-9241-5FBF529B4459}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{382AB56E-20FF-4491-9241-5FBF529B4459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCE943A-A689-48E1-A779-993D8E02A57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCE943A-A689-48E1-A779-993D8E02A57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCE943A-A689-48E1-A779-993D8E02A57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCE943A-A689-48E1-A779-993D8E02A57B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
